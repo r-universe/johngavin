@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/johngavin/johngavin.r-universe.dev
 	branch = HEAD
+[submodule "rArimaOption"]
+	path = rArimaOption
+	url = //github.com/JohnGavin/rArimaOption
 [submodule "randomwalk"]
 	path = randomwalk
 	url = https://github.com/JohnGavin/randomwalk
