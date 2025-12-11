@@ -2,6 +2,22 @@
 	path = .registry
 	url = https://github.com/johngavin/johngavin.r-universe.dev
 	branch = HEAD
+[submodule "ForecastComb"]
+	path = ForecastComb
+	url = https://github.com/thierrymoudiki/ForecastComb
+	registered = false
+[submodule "ahead"]
+	path = ahead
+	url = https://github.com/Techtonique/ahead
+	registered = false
+[submodule "esgtoolkit"]
+	path = esgtoolkit
+	url = https://github.com/Techtonique/esgtoolkit
+	registered = false
+[submodule "misc"]
+	path = misc
+	url = https://github.com/thierrymoudiki/misc
+	registered = false
 [submodule "rArimaOption"]
 	path = rArimaOption
 	url = https://github.com/JohnGavin/rArimaOption
