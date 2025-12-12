@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "rArimaOption"]
 	path = rArimaOption
-	url = //github.com/JohnGavin/rArimaOption
+	url = https://github.com/JohnGavin/rArimaOption
 [submodule "randomwalk"]
 	path = randomwalk
 	url = https://github.com/JohnGavin/randomwalk
