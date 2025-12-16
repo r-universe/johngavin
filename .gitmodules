@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "etfdata"]
 	path = etfdata
-	url = https://github.com/JohnGavin/etf-data/tree/main/etfdata
+	url = https://github.com/JohnGavin/etf-data
+	subdir = etfdata
 [submodule "randomwalk"]
 	path = randomwalk
 	url = https://github.com/JohnGavin/randomwalk
