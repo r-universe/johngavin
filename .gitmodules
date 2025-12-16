@@ -14,13 +14,13 @@
 	path = esgtoolkit
 	url = https://github.com/Techtonique/esgtoolkit
 	registered = false
+[submodule "etfdata"]
+	path = etfdata
+	url = https://github.com/JohnGavin/etf-data/tree/main/etfdata
 [submodule "misc"]
 	path = misc
 	url = https://github.com/thierrymoudiki/misc
 	registered = false
-[submodule "rArimaOption"]
-	path = rArimaOption
-	url = https://github.com/JohnGavin/rArimaOption
 [submodule "randomwalk"]
 	path = randomwalk
 	url = https://github.com/JohnGavin/randomwalk
