@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/johngavin/johngavin.r-universe.dev
 	branch = HEAD
+[submodule "coMMpass"]
+	path = coMMpass
+	url = https://github.com/JohnGavin/coMMpass-analysis
 [submodule "etfdata"]
 	path = etfdata
 	url = https://github.com/JohnGavin/etf-data
