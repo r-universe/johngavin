@@ -9,6 +9,9 @@
 	path = etfdata
 	url = https://github.com/JohnGavin/etf-data
 	subdir = etfdata
+[submodule "irishbuoys"]
+	path = irishbuoys
+	url = https://github.com/JohnGavin/irishbuoys
 [submodule "millsratio"]
 	path = millsratio
 	url = https://github.com/JohnGavin/millsratio
