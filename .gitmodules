@@ -12,6 +12,9 @@
 [submodule "irishbuoys"]
 	path = irishbuoys
 	url = https://github.com/JohnGavin/irishbuoys
+[submodule "micromort"]
+	path = micromort
+	url = https://github.com/JohnGavin/micromort
 [submodule "millsratio"]
 	path = millsratio
 	url = https://github.com/JohnGavin/millsratio
